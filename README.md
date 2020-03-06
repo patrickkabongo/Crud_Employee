@@ -1,2 +1,3 @@
-# Crud_Employee
-Spring Boot - Build a REST CRUD API with Hibernate - Real Time Project
+# Crud Employee
+
+Crud EMployee is a basic project using Spring Boot. In this project, a REST CRUD API is created with Hibernate.
